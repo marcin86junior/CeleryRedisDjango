@@ -1,4 +1,4 @@
-Django-Celery-Redis
+Django-Celery-Redis simple app
 
 Docker:
 -------
